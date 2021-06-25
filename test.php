@@ -1,4 +1,4 @@
-[
+<?php echo '[
   {
     "id": "1",
     "name": "LoudSound",
@@ -25,4 +25,4 @@
     "youtube_link": "https://www.youtube.com/user/basspro",
     "point": "55.913061068844044,37.58432549999997"
   }
-]
+]';
